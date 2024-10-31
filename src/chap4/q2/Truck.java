@@ -1,6 +1,6 @@
-package study;
+package chap4.q2;
 
-public class Truck extends Car implements BaeMin{
+public class Truck extends Car implements BaeMin {
     public void speedUp(){
         velocity += 30;
     }

@@ -1,4 +1,4 @@
-package study;
+package chap4.q2;
 interface BaeMin{
     public void deliver();
 }

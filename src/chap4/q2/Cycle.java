@@ -1,6 +1,8 @@
-package study;
+package chap4.q2;
 
-class Cycle implements BaeMin{
+//import BaeMin;
+
+class Cycle implements BaeMin {
     int velocity;
     public void deliver()
     {

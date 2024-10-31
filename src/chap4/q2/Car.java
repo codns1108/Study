@@ -1,4 +1,4 @@
-package study;
+package chap4.q2;
 
  class Car {
      protected int velocity;
